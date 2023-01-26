@@ -6,7 +6,6 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 public abstract class Animal {
-
   private final int lengthRun;
   private final int lengthJump;
   private final int lengthSwim;
